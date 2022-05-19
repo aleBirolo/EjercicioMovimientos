@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1652889996 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\archivo.c
+	"archivo.h"
+
+1652889782 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\archivo.h
+	<stdio.h>
+	"utilitarios.h"
+
+1652920902 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\main.c
+	"main.h"
+
+1652919084 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"movimiento.h"
+
+1652920808 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\movimiento.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarios.h"
+
+1652920762 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\movimiento.c
+	"movimiento.h"
+
+1652915258 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\utilitarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652914397 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\utilitarios.c
+	"utilitarios.h"
+
+1652894126 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\cadena.c
+	"cadena.h"
+
+1652919156 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\movimientos\cadena.h
+
